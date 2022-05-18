@@ -1,0 +1,11 @@
+.base {
+  color: #ff33aa;
+}
+
+.base:is(h2) {
+  color: #dd22ff;
+}
+
+.base:is(h4) {
+  color: #acdc12;
+}
