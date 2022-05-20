@@ -10,16 +10,16 @@
     "start": "remix-serve build"
   },
   "dependencies": {
-    "@remix-run/css-modules": "0.0.0-experimental-21e6f0d7",
-    "@remix-run/node": "0.0.0-experimental-21e6f0d7",
-    "@remix-run/react": "0.0.0-experimental-21e6f0d7",
-    "@remix-run/serve": "0.0.0-experimental-21e6f0d7",
+    "@remix-run/css-modules": "0.0.0-experimental-ae984c8e",
+    "@remix-run/node": "0.0.0-experimental-ae984c8e",
+    "@remix-run/react": "0.0.0-experimental-ae984c8e",
+    "@remix-run/serve": "0.0.0-experimental-ae984c8e",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@remix-run/dev": "0.0.0-experimental-21e6f0d7",
-    "@remix-run/eslint-config": "0.0.0-experimental-21e6f0d7",
+    "@remix-run/dev": "0.0.0-experimental-ae984c8e",
+    "@remix-run/eslint-config": "0.0.0-experimental-ae984c8e",
     "@types/react": "^17.0.45",
     "@types/react-dom": "^17.0.17",
     "eslint": "^8.15.0",
